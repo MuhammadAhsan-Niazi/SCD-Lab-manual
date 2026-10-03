@@ -1,0 +1,14 @@
+*   9d95aa4 fix: resolve greeting conflict by agreeing on 'Hey there' prefix
+|\  
+| * 46af058 feat: switch greeting prefix to 'Hey'
+* | eed59da feat: switch greeting prefix to 'Hello there'
+|/  
+*   d4981a1 Merge branch 'feature/lab1-farewell'
+|\  
+| * 5479b85 docs: document Greeter API in README
+| * 4c05787 feat: add farewell message to Greeter
+* | d7cfa93 docs: add class-level Javadoc to Greeter
+|/  
+* 5edd3fd feat: add Greeter utility with unit test
+* 8fa1651 feat: add App entry point
+* 1c8e6b2 chore: initial project skeleton with pom, .gitignore and README
