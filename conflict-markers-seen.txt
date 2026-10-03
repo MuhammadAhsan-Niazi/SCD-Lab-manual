@@ -5,7 +5,11 @@ package lab01;
  */
 public class Greeter {
     public static String greet(String name) {
-        return "Hey there, " + name + "!";
+<<<<<<< HEAD
+        return "Hello there, " + name + "!";
+=======
+        return "Hey, " + name + "!";
+>>>>>>> conflict-demo
     }
 
     public static String farewell(String name) {
